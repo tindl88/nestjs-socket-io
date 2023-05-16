@@ -1,4 +1,15 @@
 {
+  "insertPragma": false,
+  "bracketSpacing": true,
+  "jsxSingleQuote": false,
+  "requirePragma": false,
   "singleQuote": true,
-  "trailingComma": "all"
+  "useTabs": false,
+  "semi": true,
+  "tabWidth": 2,
+  "printWidth": 120,
+  "proseWrap": "always",
+  "arrowParens": "avoid",
+  "trailingComma": "all",
+  "quoteProps": "as-needed"
 }
